@@ -1,6 +1,6 @@
 version: 2
 updates:
   - package-ecosystem: "maven"
-    directory: "/"
+    directory: "/tools/deploy/module3"
     schedule:
       interval: "daily"
