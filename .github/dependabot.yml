@@ -3,4 +3,4 @@ updates:
   - package-ecosystem: "maven"
     directory: "/tools/deploy/module3"
     schedule:
-      interval: "daily"
+      interval: "daily" 
